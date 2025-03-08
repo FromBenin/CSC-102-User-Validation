@@ -13,6 +13,8 @@ function VALIDATION() {
     var message = "";
 
     // I added a conditional statement to check if the user's name is valid and to display an error if the name is invalid.
+    fullName.length;
+    zipCode;
     if ((fullName.length >= 20) || (fullName.length <= 9)) {
         name = "Invalid name";
     }
