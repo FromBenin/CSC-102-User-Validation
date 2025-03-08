@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+input[type=submit]:hover {
+    cursor: pointer;
+}
